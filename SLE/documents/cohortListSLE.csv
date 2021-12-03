@@ -1,0 +1,7 @@
+atlasId, atlasName, cohortId, name,compare,lookback
+2410,[EPI882] Systemic lupus erythematosus incident with 2nd dx and correction for index date,2410,[EPI882] Systemic lupus erythematosus incident with 2nd dx and correction for index date,,
+3606,[EPI882] Systemic lupus erythematosus incident with 2nd dx and correction for index date V2 Compare,3606,[EPI882] Systemic lupus erythematosus incident with 2nd dx and correction for index date Compare,2410,365
+2409,[EPI882] Systemic lupus erythematosus incident and correction for index date,2409,[EPI882] Systemic lupus erythematosus incident and correction for index date,,
+3627,[EPI882] Systemic lupus erythematosus prevalent and correction for index date,3627,[EPI882] Systemic lupus erythematosus prevalent and correction for index date,,
+3628,[EPI882] Systemic lupus erythematosus prevalent with 2nd dx and correction for index date,3628,[EPI882] Systemic lupus erythematosus prevalent with 2nd dx and correction for index date,,
+1817,[EPI882] Systemic lupus erythematosus prevalent and correction for index date Compare,1817,[EPI882] Systemic lupus erythematosus prevalent and correction for index date Compare,3627,0
